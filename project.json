@@ -4,6 +4,9 @@
   "description": "빈 프로세스",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Excel.Activities": "[2.25.1-preview]",
+    "UiPath.GSuite.Activities": "[3.0.1-preview]",
+    "UiPath.MicrosoftOffice365.Activities": "[3.0.1-preview]",
     "UiPath.System.Activities": "[24.10.7]"
   },
   "webServices": [],
